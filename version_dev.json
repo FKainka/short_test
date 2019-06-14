@@ -1,0 +1,13 @@
+{
+    "spiffs": {
+      "version":"xv1.2_16122018",
+	  "file":"https://github.com/FKainka/short_test/raw/master/firmware.bin"
+    },
+    "sketch": {
+      "version":"xv1.4_16122018",
+	  "file":"https://github.com/FKainka/short_test/raw/master/firmware.bin"
+    }
+}
+
+
+
